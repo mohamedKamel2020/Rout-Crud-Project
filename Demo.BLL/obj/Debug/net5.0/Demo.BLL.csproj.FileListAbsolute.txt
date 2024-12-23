@@ -1,0 +1,30 @@
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\Dell\Desktop\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
