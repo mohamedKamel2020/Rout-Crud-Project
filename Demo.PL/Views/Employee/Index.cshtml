@@ -1,0 +1,64 @@
+﻿@model IEnumerable<EmployeeViewModel>
+
+<h1 class="mb-4">All Employees</h1>
+
+<form asp-action="Index" class="mb-4">
+	<div class="row align-items-center justify-content-center">
+		<div class="col-8">
+			<input type="text" placeholder="Search By Name" name="SearchValue" class="form-control" />
+		</div>
+		<div class="col-4">
+			<input type="submit" value="Search" class="btn btn-primary"/>
+		</div>
+	</div>
+</form>
+
+<a asp-controller="Employee" asp-action="Create" class="btn btn-primary mb-2">Add New Employee</a>
+
+@if (Model.Count() > 0)
+{
+	<table class="mt-3 table table-hover table-striped">
+		<thead>
+			<tr>
+
+				<th>@Html.DisplayNameFor(D=>D.Name)</th>
+				<th>@Html.DisplayNameFor(D=>D.Age)</th>
+				<th>@Html.DisplayNameFor(D=>D.Address)</th>
+				<th>@Html.DisplayNameFor(D=>D.Image)</th>
+				<th>@Html.DisplayNameFor(D=>D.DepartmentId)</th>
+				<th>@Html.DisplayNameFor(D=>D.Salary)</th>
+				<th>@Html.DisplayNameFor(D=>D.IsActive)</th>
+				<th>@Html.DisplayNameFor(D=>D.PhoneNumber)</th>
+				<th>@Html.DisplayNameFor(D=>D.HireDate)</th>
+				<th>Details</th>
+				<th>Update</th>
+				<th>Delete</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var employee in Model)
+			{
+				<tr>
+					<td>@Html.DisplayFor(M=>@employee.Name)</td>
+					<td>@Html.DisplayFor(M=>@employee.Age)</td>
+					<td>@Html.DisplayFor(M=>@employee.Address)</td>
+					<td>
+						<img src="~/files/images/@employee.ImageName" alt="Employee Image" class="img-fluid" height="100" width="100">
+					</td>
+					<td>@Html.DisplayFor(M=>@employee.Department.Name)</td>
+					<td>@Html.DisplayFor(M=>@employee.Salary)</td>
+					<td>@Html.DisplayFor(M=>@employee.IsActive)</td>
+					<td>@Html.DisplayFor(M=>@employee.PhoneNumber)</td>
+					<td>@Html.DisplayFor(M=>@employee.HireDate)</td>
+					<partial name="_ButtonsPartialView" model="@employee.Id.ToString()">
+				</tr>
+			}
+		</tbody>
+	</table>
+}
+else
+{
+	<div class="mt-5 alert alert-warning">
+		<h3>There is no Employee</h3>
+	</div>
+}
